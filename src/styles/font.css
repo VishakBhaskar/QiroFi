@@ -1,4 +1,8 @@
 
- @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoMonoRegular.ttf"); font-family : "Roboto Mono"; font-weight : 400;  }
- @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoMonoMedium.ttf"); font-family : "Roboto Mono"; font-weight : 500;  }
- @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoMonoBold.ttf"); font-family : "Roboto Mono"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("$fonts/assets/fonts/RobotoMonoRegular.ttf") format('woff2'); font-family : "Roboto Mono"; font-weight : 400;   }
+ @font-face { font-style : normal; src: url("$fonts/assets/fonts/RobotoMonoMedium.ttf") format('woff2'); font-family : "Roboto Mono"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("$fonts/assets/fonts/RobotoMonoBold.ttf") format('woff2'); font-family : "Roboto Mono"; font-weight : 700;  }
+
+ /* font-display: swap; */
+/* font-display: swap; */
+/* font-display: swap; */
