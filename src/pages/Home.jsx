@@ -2,7 +2,7 @@ import React from "react";
 
 import { Button, Img, Input, Switch, Text } from "components";
 
-const FiftyPage = () => {
+const Home = () => {
   return (
     <>
       <div className="bg-gradient5  flex flex-col font-robotomono mx-auto p-10 sm:px-5 relative w-full">
@@ -490,4 +490,4 @@ const FiftyPage = () => {
   );
 };
 
-export default FiftyPage;
+export default Home;
