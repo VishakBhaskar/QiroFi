@@ -420,14 +420,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        {/* <div className="flex flex-col items-center justify-center ml-[217px] mt-[20px] md:px-5 w-[27%] z-[1]">
-          <Img
-            className="md:h-auto h-px object-cover"
-            src="images/img_sideseparator.png"
-            alt="sideseparator_Two"
-          />
-          
-        </div> */}
+        
         <div className="md:h-[306px] sm:h-[443px] h-[502px] mb-[7px] mt-[80px] mx-auto md:px-5 w-[80%] z-[1]">
           
           <div className=" bg-blue_gray-700_04 bottom-[0] flex flex-col inset-x-[0] items-start justify-start mx-auto p-[42px] rounded-[12px] w-[84%] ">
